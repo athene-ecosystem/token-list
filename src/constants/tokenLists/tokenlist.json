@@ -31,6 +31,14 @@
             "decimals": 18,
             "icon": "https://athene.network/api/v1.0/icon/tokens/ATH.png",
             "disable": false
+        },
+        {
+            "address": "0x7e7975D3B3f7E731e1456AD96f992e06B42a6c7c",
+            "name": "Test ATH",
+            "symbol": "tATH",
+            "decimals": 9,
+            "icon": "https://athene.network/api/v1.0/icon/tokens/ATH.png",
+            "disable": false
         }
     ],
     "mainnet": [
