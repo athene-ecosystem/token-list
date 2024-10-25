@@ -1,0 +1,21 @@
+{
+  "name": "@atheneswap/token-list",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Token list for AtheneSwap",
+  "main": "build/AtheneSwap-default.tokenlist.json",
+  "files": [
+    "build/AtheneSwap-default.tokenlist.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "npx rimraf build && mkdir build && node src/write.js > build/AtheneSwap-default.tokenlist.json",
+    "prepublishOnly": "npm run build"
+  },
+  "homepage": "https://github.com/",
+  "devDependencies": {
+    "rimraf": "^5.0.5"
+  }
+}
