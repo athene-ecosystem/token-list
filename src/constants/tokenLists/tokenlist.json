@@ -5,7 +5,7 @@
             "name": "Ether",
             "symbol": "ETH",
             "decimals": 18,
-            "icon": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628",
+            "icon": "https://cdn.thena.fi/assets/ETH.png",
             "disable": false
         },
         {
@@ -13,7 +13,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "icon": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+            "icon": "https://cdn.thena.fi/assets/ETH.png",
             "disable": false
         },
         {
@@ -21,7 +21,7 @@
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
-            "icon": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+            "icon": "https://cdn.thena.fi/assets/USDT.png",
             "disable": false
         }        
     ],
