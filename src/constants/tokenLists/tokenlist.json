@@ -17,29 +17,13 @@
             "disable": false
         },
         {
-            "address": "0x6c0D5cA58f98478F9333c20F6AE9a1ce53B9A4F1",
+            "address": "0x2c7C71441cf333821071fB74fdFf37ee6E6Ca69B",
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
             "icon": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
             "disable": false
-        },
-        {
-            "address": "0x913f555E9F6C7797de1754105CA44E13d1738e85",
-            "name": "TEST",
-            "symbol": "TEST",
-            "decimals": 18,
-            "icon": "https://athene.network/api/v1.0/icon/tokens/ATH.png",
-            "disable": false
-        },
-        {
-            "address": "0x7e7975D3B3f7E731e1456AD96f992e06B42a6c7c",
-            "name": "Test ATH",
-            "symbol": "tATH",
-            "decimals": 9,
-            "icon": "https://athene.network/api/v1.0/icon/tokens/ATH.png",
-            "disable": false
-        }
+        }        
     ],
     "mainnet": [
         {}
