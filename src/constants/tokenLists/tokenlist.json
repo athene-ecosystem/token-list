@@ -17,8 +17,7 @@
             "disable": false
         },
         {
-            "address": "0x6c0D5cA58f98478F9333c20F6AE9a1ce53B9A4F1",
-            "address": "0x2c7C71441cf333821071fB74fdFf37ee6E6Ca69B",
+            "address": "0x6c0D5cA58f98478F9333c20F6AE9a1ce53B9A4F1",            
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
