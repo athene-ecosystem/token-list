@@ -5,7 +5,7 @@
             "name": "Ether",
             "symbol": "ETH",
             "decimals": 18,
-            "icon": "https://cdn.thena.fi/assets/ETH.png",
+            "icon": "https://athene.network/api/v1.0/icon/tokens/ETH.png",
             "disable": false
         },
         {
@@ -13,7 +13,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "icon": "https://cdn.thena.fi/assets/ETH.png",
+            "icon": "https://athene.network/api/v1.0/icon/tokens/ETH.png",
             "disable": false
         },
         {
@@ -21,7 +21,7 @@
             "name": "USDT",
             "symbol": "USDT",
             "decimals": 6,
-            "icon": "https://cdn.thena.fi/assets/USDT.png",
+            "icon": "https://athene.network/api/v1.0/icon/tokens/USDT.png",
             "disable": false
         }        
     ],
