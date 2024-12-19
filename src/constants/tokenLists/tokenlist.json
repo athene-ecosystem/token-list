@@ -23,7 +23,23 @@
             "decimals": 6,
             "icon": "https://athene.network/api/v1.0/icon/tokens/USDT.png",
             "disable": false
-        }        
+        },
+        {
+            "address": "0x21aaB3EE875179d230a5d6FD470171089020bFd0",
+            "name": "ATHENE NETWORK",
+            "symbol": "ATH",
+            "decimals": 9,
+            "icon": "https://athene.network/api/v1.0/icon/tokens/ATH.png",
+            "disable": false
+        },
+        {
+            "address": "0xB15b8334563c99271EAf679236414Ff4CDBDf41c",
+            "name": "DOGECOIN",
+            "symbol": "DOGE",
+            "decimals": 9,
+            "icon": "https://athene.network/api/v1.0/icon/tokens/DOGE.png",
+            "disable": false
+        }
     ],
     "mainnet": [
         {}
